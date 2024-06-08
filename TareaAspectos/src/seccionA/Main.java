@@ -3,8 +3,9 @@ package seccionA;
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
+        Hdmi hdmiDevice = new HdmiDevice();
+        Usb adapter = new HdmiToUsbAdapter(hdmiDevice);
+        adapter.connectWithUsbCable(); 
+   }
 
 }

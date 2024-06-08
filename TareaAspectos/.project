@@ -1,23 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>Tarea01-DS</name>
+	<name>TareaAspectos</name>
 	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
-<<<<<<< HEAD
 		<buildCommand>
-			<name>org.eclipse.ajdt.core.ajbuilder</name>
+			<name>org.eclipse.jdt.core.javabuilder</name>
 			<arguments>
 			</arguments>
 		</buildCommand>
 	</buildSpec>
 	<natures>
-		<nature>org.eclipse.ajdt.ui.ajnature</nature>
 		<nature>org.eclipse.jdt.core.javanature</nature>
-=======
-	</buildSpec>
-	<natures>
->>>>>>> 04b046fc295e0e841745e7a0a5d4fdce1c692162
 	</natures>
 </projectDescription>
